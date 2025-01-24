@@ -12,14 +12,14 @@ This repository contains the solution to the **Data Science Assignment: eCommerc
    - The notebook includes the implementation of clustering techniques, calculation of the Davies-Bouldin Index (DB Index), and other metrics for cluster evaluation. It also includes visualizations to understand the formed clusters.
 
 2. **`Samuel_Valla_Clustering.pdf`**  
-   - A PDF version of the clustering notebook for easy review and submission.  
+   - A detailed report on clustering analysis, including metrics like DB Index and Silhouette Score, along with insights derived from the clustering results.  
 
 3. **`Samuel_Valla_EDA.ipynb`**  
    - A Jupyter Notebook containing the Exploratory Data Analysis (EDA) performed on the eCommerce dataset.  
    - The notebook covers data cleaning, summary statistics, visualizations, and insights derived from customer, product, and transaction data.
 
 4. **`Samuel_Valla_EDA.pdf`**  
-   - A PDF version of the EDA notebook for easy review and submission.  
+   - A detailed report on the EDA process, highlighting key findings, visualizations, and data insights.  
 
 5. **`Samuel_Valla_Lookalike.csv`**  
    - The output file for the lookalike model, containing mappings of customer IDs to their top 3 similar customers and the associated similarity scores.  
