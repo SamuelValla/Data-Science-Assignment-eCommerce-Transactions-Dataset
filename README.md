@@ -19,7 +19,7 @@ This repository contains the solution to the **Data Science Assignment: eCommerc
    - The notebook covers data cleaning, summary statistics, visualizations, and insights derived from customer, product, and transaction data.
 
 4. **`Samuel_Valla_EDA.pdf`**  
-   - A detailed report on the EDA process, highlighting key findings, visualizations, and data insights.  
+   - The 5 business insights derived from the EDA as asked for.  
 
 5. **`Samuel_Valla_Lookalike.csv`**  
    - The output file for the lookalike model, containing mappings of customer IDs to their top 3 similar customers and the associated similarity scores.  
