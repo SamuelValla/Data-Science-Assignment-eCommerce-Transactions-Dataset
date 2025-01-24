@@ -50,5 +50,5 @@ This repository contains the solution to the **Data Science Assignment: eCommerc
 ## How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
+   git clone https://github.com/<SamuelValla>/<Data-Science-Assignment-eCommerce-Transactions-Dataset>.git
+   cd <Data-Science-Assignment-eCommerce-Transactions-Dataset>
